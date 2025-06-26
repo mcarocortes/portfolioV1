@@ -2089,7 +2089,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .hero-section {
-  background-image: url("/img/hero/bg_bubles.png");
+  background-image: url("img/hero/bg_bubles.png");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5441,7 +5441,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .div-block-64 {
-  background-image: url("/img/hero/logo_movimiento.png");
+  background-image: url("img/hero/logo_movimiento.png");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -6393,13 +6393,13 @@ textarea.w-input, textarea.w-select {
 }
 
 .logonav.w--current {
-  background-image: url("/img/logos/m_black.png");
+  background-image: url("img/logos/m_black.png");
   background-position: 0 0;
   background-size: auto;
 }
 
 .link-block-2 {
-  background-image: url("/img/logos/LogoFull_Black_1.png");
+  background-image: url("img/logos/LogoFull_Black_1.png");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -6408,7 +6408,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .link-block-2.w--current {
-  background-image: url("/img/logos/LogoFull_Black_1.png");
+  background-image: url("img/logos/LogoFull_Black_1.png");
   width: 150px;
 }
 
@@ -6630,7 +6630,7 @@ textarea.w-input, textarea.w-select {
 
 @media screen and (min-width: 1280px) {
   .hero-section {
-    background-image: url("/img/hero/bg_bubles.png");
+    background-image: url("img/hero/bg_bubles.png");
     background-position: 50%;
     background-size: cover;
     width: 100%;
