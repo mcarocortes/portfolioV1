@@ -14,7 +14,7 @@ const canvas = document.getElementById('canvas3d');
 const loader = document.getElementById('loader');
 const app = new Application(canvas);
 
-const splineURL = 'scene.splinecode';
+const splineURL = 'sceneMimi.splinecode';
 
 app.load(splineURL).then(() => {
   loader.style.display = 'none';
